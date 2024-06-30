@@ -1,0 +1,13 @@
+{
+    "name": "freeCategories",
+    "url" : "https://github.com/TechDevOfficial/freeCategories",
+    "license": "Apache",
+    "tags": ["fnf"],
+    "description": "A modchart framework for Friday Night Funkin.",
+    "version": "1.0.1",
+    "classPath": "source/",
+    "releasenote": "",
+    "contributors": ["TechDevOfficial","VideoBotYT"],
+    "dependencies": {
+    }
+}
